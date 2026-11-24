@@ -9,9 +9,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ClasK7&theme=github-green-purple&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 </div>
----
 
-### 🛠️ Tech Stack & Herramientas
+### Tech Stack & Herramientas
 
 **Desarrollo Web & Bases de Datos:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -39,20 +38,17 @@
 
 ---
 
-### 📫 Conecta conmigo
+### Conecta conmigo
 
 <div align="center">
 
-<a href="https://www.instagram.com/diario_devops">
+<a href="https://www.instagram.com/clask767">
   <img src="https://img.shields.io/badge/Instagram-f78ca0?style=for-the-badge&logo=instagram&logoColor=1a1a2e" alt="Instagram">
 </a>&nbsp;&nbsp;
-<a href="https://medium.com/@maraclaudiaprezescalante">
-  <img src="https://img.shields.io/badge/Medium-c7a4f5?style=for-the-badge&logo=medium&logoColor=1a1a2e" alt="Medium">
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mcperezes/">
+<a href="www.linkedin.com/in/clask7/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;&nbsp;
-<a href="https://github.com/macu-dev">
+<a href="https://github.com/ClasK7">
   <img src="https://img.shields.io/badge/GitHub-f78ca?style=for-the-badge&logo=github&logoColor=1a1a221" alt="GitHub">
 </a>
 
