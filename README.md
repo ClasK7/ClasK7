@@ -1,9 +1,23 @@
+<div align="center">
 
-![Banner de Kevin R. Clas](https://raw.githubusercontent.com/ClasK7/ClasK7/0bd45e47430875c80d7f9b3e2e8b0bef99ea261b/Perfil%20Github.jpg)
+  <!-- BANNER PRINCIPAL (Diseño cyber-tech sin foto de perfil) -->
+  <a href="https://github.com/ClasK7">
+    <img src="https://raw.githubusercontent.com/ClasK7/ClasK7/0bd45e47430875c80d7f9b3e2e8b0bef99ea261b/Perfil%20Github.jpg" width="960" alt="Banner Developer y Telematic">
+  </a>
 
-# Hola, soy Kevin Clas 👋
+  <br><br>
 
-### Desarrollador Web & IoT | Entusiasta de Redes
+  <!-- TEXTO ANIMADO (Typing SVG) -->
+  <a href="https://github.com/ClasK7">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=78E000&center=true&vCenter=true&width=900&lines=Kevin+R.+Clas+%E2%80%94+Developer+%26+Telematic%3BWeb+Development+%7C+IoT+%7C+Networking%3BRaspberry+Pi+%E2%80%A2+Arduino+%E2%80%A2+Cisco%3BUbuntu+-+React+-+Node.js+-+Python+-+Kali" alt="Banner animado de Kevin R. Clas">
+  </a>
+
+  <br>
+
+  <!-- CONTADOR DE VISITAS -->
+  <img src="https://komarev.com/ghpvc/?username=ClasK7&style=flat&color=78e000&label=profile+views" alt="profile views">
+
+</div>
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ClasK7&theme=github-green-purple&hide_border=true&locale=es)](https://git.io/streak-stats)
@@ -12,7 +26,8 @@
 
 ### Tech Stack & Herramientas
 
-**Desarrollo Web & Bases de Datos:**
+**Desarrollo Web & Bases de Datos**
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -21,7 +36,8 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**IoT, Hardware & Redes:**
+**IoT, Hardware & Redes**
+
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
@@ -30,7 +46,7 @@
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### Mis Estadísticas en GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ClasK7&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Kevin" />
@@ -38,7 +54,7 @@
 
 ---
 
-### Conecta conmigo
+### Mis redes
 
 <div align="center">
 
@@ -53,5 +69,3 @@
 </a>
 
 </div>
-## 🚀 About Me
-I'm a full stack developer...
